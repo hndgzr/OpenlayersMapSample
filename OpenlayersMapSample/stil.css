@@ -1,0 +1,19 @@
+﻿body {
+    box-sizing:border-box
+}
+body{
+
+    margin:5;
+    padding:0
+}
+.grid-container{
+
+    display:grid;
+    grid-template-columns:20vw 80vw;
+    grid-template-rows:100vh
+}
+
+.mt {
+    margin-top: 20px;
+}
+
